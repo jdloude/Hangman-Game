@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background-color: black;
+	margin: auto;
+	color: white;
+	width: 50%;
+}
+.underScore{
+	border: dashed 2px white;
+	padding: 25px;
+	margin-bottom: 25px;
+
+}
+.guessesLeft {	
+	border: dashed 2px white;
+	padding: 25px;
+	margin-bottom: 25px;
+
+}
+.rightGuess {
+	border: dashed 2px white;
+	padding: 25px;
+	margin-bottom: 25px;
+}
+.wrongGuess {
+	border: dashed 2px white;
+	padding: 25px;
+	margin-bottom: 25px;
+}
