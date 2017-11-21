@@ -1,5 +1,5 @@
 // Array to hold all the anime names to choose from.
-var animeWords = ['cowboybebop', 'codegeass','dragonballz'];
+var animeWords = ['cowboy bebop', 'code geass', 'dragonball z', 'psycho-pass', 'guilty crown', 'bleach', 'gundam wing', 'baccano!', 'outlaw star', 'death note'];
 
 // Global Variables
 var randGenerator = Math.floor(Math.random() * animeWords.length);
