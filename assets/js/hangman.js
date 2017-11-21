@@ -47,6 +47,10 @@ document.onkeypress = function (event){
 
 			responsiveRightGuess[0].innerHTML = rightGuess.join(' ');
 
+			if (userGuess = rightGuess[i]) {
+				rightGuess.push(null);
+			}
+
 		}
 
 
